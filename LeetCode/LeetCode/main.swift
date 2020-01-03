@@ -19,6 +19,12 @@ import Foundation
 
 
 //p3
-lengthOfLongestSubstring()
+//lengthOfLongestSubstring()
+
+
+
+//p4  2个有序数组中位数
+FindMedianSortedArrays()
+
 
 
